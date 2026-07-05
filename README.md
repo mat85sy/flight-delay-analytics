@@ -11,7 +11,7 @@ A Python CLI tool for querying and visualizing flight delay data using SQL and p
 Python · SQLAlchemy · SQLite · Pandas · Matplotlib
 
 ## Sample Output
-![Delay Percentage Chart](delay_percentage_by_airline.png)
+![Delay Percentage Chart](screenshots/delay_percentage_by_airline.png)
 
 ## How to Run
 \`\`\`bash
